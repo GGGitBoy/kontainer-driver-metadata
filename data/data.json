@@ -2530,7 +2530,7 @@
   }
  },
  "K8sVersionRKESystemImages": {
-  "v1.10.0-rancher1-1": {
+  "v1.10.123-rancher1-1": {
    "etcd": "rancher/coreos-etcd:v3.1.12",
    "alpine": "rancher/rke-tools:v0.1.4",
    "nginxProxy": "rancher/rke-tools:v0.1.4",
